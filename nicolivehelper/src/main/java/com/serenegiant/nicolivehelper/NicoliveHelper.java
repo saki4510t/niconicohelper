@@ -1,7 +1,8 @@
 /*
+ *
  * Niconicohelper
  *
- * Copyright (c) saki t_saki@serenegiant.com
+ * Copyright (c) 2015 saki t_saki@serenegiant.com
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,6 +17,7 @@
  *  limitations under the License.
  *
  * All files in the folder are under this Apache License, Version 2.0.
+ *
  */
 
 package com.serenegiant.nicolivehelper;
@@ -91,7 +93,7 @@ public class NicoliveHelper {
 			sQueue = Volley.newRequestQueue(context.getApplicationContext());
 		}
 		mCallback = callback;
-		if (DEBUG) runTest();
+//		if (DEBUG) runTest();
 	}
 
 	public void release() {
@@ -304,6 +306,7 @@ public class NicoliveHelper {
 		}
 	}
 
+	// FIXME このコードはandroidTestへ移したほうがええな
 	private void runTest() {
 		try {
 			final DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
