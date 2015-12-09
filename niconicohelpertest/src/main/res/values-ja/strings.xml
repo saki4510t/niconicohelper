@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">ニコライブ配信情報取得</string>
+
+	<string name="empty_publish">配信情報がありません</string>
+	<string name="address">メールアドレス:</string>
+	<string name="password">パスワード:</string>
+	<string name="save_password">パスワードを記録する</string>
+	<string name="get_info">配信情報を取得</string>
+	<string name="err_login">ログインに失敗しました\nアカウント情報を確認してください。</string>
+	<string name="err_get">配信情報を取得に失敗しました</string>
+</resources>

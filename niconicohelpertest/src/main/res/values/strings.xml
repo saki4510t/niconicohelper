@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">NiconicoLiveInfoHelper</string>
+
+	<string name="action_settings">Settings</string>
+	<string name="empty_publish">No publish info</string>
+	<string name="address">Mail address:</string>
+	<string name="password">Password:</string>
+	<string name="save_password">Save password</string>
+	<string name="get_info">Get Info</string>
+	<string name="err_login">Failed login\nPlease confirm your account informations</string>
+	<string name="err_get">Failed to get publish status</string>
+</resources>

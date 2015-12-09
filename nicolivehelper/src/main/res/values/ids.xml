@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="id" name="PublishStatusAdapter_viewholder_id" />
+	<item type="id" name="title" />
+	<item type="id" name="url" />
+	<item type="id" name="stream" />
+	<item type="id" name="bitrate" />
+</resources>
